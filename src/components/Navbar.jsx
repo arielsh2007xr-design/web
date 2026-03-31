@@ -4,7 +4,7 @@ import { Menu, X } from 'lucide-react'
 
 const links = [
   { label: 'שירותים', href: '#services'  },
-  { label: 'עבודות',  href: '#portfolio' },
+  { label: 'ארכיטקטורה', href: '#architecture' },
   { label: 'תהליך',   href: '#process'   },
   { label: 'צור קשר', href: '#contact'   },
 ]
